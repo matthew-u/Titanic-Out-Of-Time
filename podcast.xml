@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Titanic: Out of Time</title>
+    <description>An audiobook sample of Titanic: Out of Time</description>
+    <link>https://github.com/matthew-u/Titanic-Out-Of-Time</link>
+    <language>en-us</language>
+    <itunes:author>AoPS</itunes:author>
+    <itunes:summary>An audiobook sample of Chapter 1 of Titanic: Out of Time</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://cdn.artofproblemsolving.com/school/crypt/00522-aedb3c50db64d36b2f35b6a92041e00588cfb11c/files/TooT_Cover_Demo.png" />
+    <itunes:category text="Fiction" />
+    
+    <item>
+      <title>Titanic: Out of Time - Chapter 1: The Museum</title>
+      <description>MPEG-4</description>
+      <pubDate>Fri, 16 May 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/TooT-chapter-1-the-museum-1/Chapter%201%20-%20The%20Museum%20%281%29.m4a" length="55008559" type="audio/x-m4a" />
+      <guid isPermaLink="true">https://archive.org/download/TooT-chapter-1-the-museum-1/Chapter%201%20-%20The%20Museum%20%281%29.m4a" length="55008559" type="audio/x-m4a</guid>
+      <itunes:duration>22:28</itunes:duration>
+      <itunes:summary>Chapter 1: The Museum</itunes:summary>
+    </item>
+  </channel>
+</rss>
